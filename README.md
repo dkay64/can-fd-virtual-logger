@@ -1,6 +1,6 @@
 # Virtual CAN FD Logger
 
-Mini Project 1 for my LucidPrep CAN/CAN FD prep.
+Mini Project 1 for learning about CAN/ CAN FD.
 
 This is a small Python demo that sends a fake vehicle status message on a virtual CAN bus, then receives and decodes it with a DBC. I used it to practice the full path:
 
