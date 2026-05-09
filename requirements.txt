@@ -1,0 +1,3 @@
+# tested in lucidprep_env on Windows
+python-can>=4.3.0
+cantools>=39.0.0
